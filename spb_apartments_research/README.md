@@ -1,4 +1,34 @@
-Это мой второй проект за время обучения в Яндекс Практикуме
+# On English (Although my English level is B1+ - B2, I use autotranslate to speed up my work.)
+**Message**
+
+This is my second project during my Yandex Practicum training, the quality of these projects will increase as the training progresses
+
+**Introduction** 
+
+Everyone needs a place to live, and I just need to analyse what parameters affect the cost of real estate. Look at the horizon in a few years you will have your own flat, but suddenly the property should buy on 16 July at exactly 12:34? We have to figure it out!
+Before we get to the hard work, a little anecdote.
+
+> Doctor, I need something for insomnia and mosquitoes, like a flat in London!
+
+**Research Objective** 
+
+To conduct an exploratory analysis of the data to help establish the parameters that influence the price of a property. Pay particular attention to the distance to the city centre as well as the price in other localities.
+
+
+**Data**
+
+Data from the Yandex Real Estate service - archive of flat listings in St. Petersburg and neighbouring cities for several years. Unfortunately, according to the policy of Yandex Praktikum you can't post them.
+
+
+
+**Worth doing if you have time**
+- Write what methods and technologies you used (In this project, focus on the charts used, but also talk about the technologies).
+- Write what you learnt
+
+# На русском
+**Справка**
+
+Это мой второй проект за время обучения в Яндекс Практикуме, по ходу обучения их качество будет расти
 
 **Введение** 
 
