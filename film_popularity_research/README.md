@@ -1,4 +1,4 @@
-# On English (Although my English level is B1+ - B2, I use autotranslate to speed up my work.)
+# On English 
 **Learned or practiced while doing project**
 - Use the library to build dynamic graphs Plotly
 - Conducted one-hot encoding via sklearn MLB
@@ -50,6 +50,7 @@ Movies table
 
 *Film distribution certificate is a document giving the right to rent (demonstrate) a film on the territory of the Russian Federation, as well as to reproduce and distribute it, including via cable or broadcast channels.
 
+(Text above created automatically. Although my English level is B1+ - B2, I use autotranslate to speed up my work.)
 
 # На русском
 **В процессе выполнения научился или попрактиковался**
